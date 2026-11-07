@@ -9,6 +9,7 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "faker (>=40.44.0,<41.0.0)"
 ]
 
 
